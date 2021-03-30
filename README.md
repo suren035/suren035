@@ -16,6 +16,6 @@
 ## :computer: Languages that I speak
 <img src = 'https://image.flaticon.com/icons/svg/919/919827.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/>   <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> 
 
-![Annu's github stats](https://github-readme-stats.vercel.app/api?username=suren035&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Surendra's github stats](https://github-readme-stats.vercel.app/api?username=suren035&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suren035&show_icons=true&locale=en&layout=compact" alt="khushboogoel01" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=suren035&theme=default" alt="suren035" /></p>
